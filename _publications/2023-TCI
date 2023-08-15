@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2023-TCI
 excerpt: 'In this paper, we propose a new method for performing a conditional independence test on a panel dataset using a Beta-Variational Autoencoder (VAE) model with normalizing flows (NFs). Our approach is based on the distributed information bottleneck (DIB) method, which allows us to capture the heterogeneity in the test procedure by learning a latent representation of the data that is robust to noise and perturbations. We demonstrate that the DIB method is able to learn a latent representation that captures the underlying heterogeneity of the data, and we show that it outperforms other methods in terms of prediction accuracy and interpretability. We also prove the convergence and consistency of the DIB method for learning a latent representation of a panel dataset, using results from information theory and statistical learning theory. Our results suggest that the Beta-VAE with normalizing flows and the DIB method is a promising approach for analyzing panel data and testing for conditional independence.'
 date: 2023-07-15
-venue: 'TBA'
 paperurl: '[Manuscript in preparation].'
 citation: 'Song, Hayun. (2023). Testing Conditional Independence for Panel Data, [Manuscript in preparation].'
 ---
