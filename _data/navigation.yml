@@ -1,7 +1,7 @@
 # main links links
-#main:
-#  - title: "Working Papers"
-#    url: /publications/
+main:
+  - title: "Working Papers"
+    url: /publications/
     
 #  - title: "Data Analytic"
 #    url: /portfolio/
