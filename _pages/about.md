@@ -17,3 +17,4 @@ Email: [hayunson@usc.edu](mailto:hayunson@usc.edu)
 
 CV: [download here](files/cv_hayunSong.pdf)
 
+Blog: [AIEconLab](https://www.aieconlab.com/)
