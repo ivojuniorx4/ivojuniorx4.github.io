@@ -12,7 +12,11 @@ author_profile: true
     <h2 class="archive__item-title">
       {{ post.title }}
       <span style="margin-left: 20px;">
-        <a href="{{ post.url | prepend: site.baseurl }}">Read Blog</a>
+        {% if post.external_url %}
+          <a href="{{ post.external_url }}" target="_blank">Read Blog</a>
+        {% else %}
+          <a href="{{ post.url | prepend: site.baseurl }}">Read Blog</a>
+        {% endif %}
       </span>
     </h2>
     <p class="archive__item-excerpt">{{ post.excerpt }}</p>
