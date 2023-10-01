@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /publications/
     
-#  - title: "Data Analytic"
-#    url: /portfolio/
+  - title: "Data Analytic"
+    url: /portfolio/
 
 #  - title: "Teaching"
 #    url: /teaching/    
