@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JMP"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>JMP</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.category == 'jmp' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Working Papers</h2>
+{% for post in site.publications reversed %}
+  {% if post.category == 'working_paper' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
