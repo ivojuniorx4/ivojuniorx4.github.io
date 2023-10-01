@@ -6,8 +6,8 @@ main:
   - title: "Data Projects"
     url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /teaching/    
+#  - title: "Blog Posts"
+#    url: /teaching/    
     
 #  - title: "CV"
 #    url: /cv/
