@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Working Papers"
+title: "JMP"
 permalink: /publications/
 author_profile: true
 ---
