@@ -19,6 +19,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<!-- Add spacing -->
+<br><be>
+
 <h2>Working Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.category == 'working_paper' %}
