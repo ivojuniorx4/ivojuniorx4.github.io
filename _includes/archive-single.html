@@ -14,6 +14,12 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <p>Debugging Info: </p>
+    <p>Post Title: {{ post.title }}</p>
+    <p>Post Category: {{ post.category }}</p>
+    <p>Post Collection: {{ post.collection }}</p>
+    
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
