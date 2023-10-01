@@ -42,6 +42,12 @@
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       {% endif %}
+      <!-- Your custom code for the external Read Blog link -->
+      {% if post.url %}
+        <a href="{{ post.url }}" target="_blank">Read Blog</a>
+      {% else %}
+        <a href="{{ post.permalink | prepend: site.baseurl }}">Read Blog</a>
+      {% endif %}
     </h2>
     
     {% if post.category == 'jmp' %}
