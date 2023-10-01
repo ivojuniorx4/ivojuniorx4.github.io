@@ -38,6 +38,16 @@
       {% endif %}
     </h2>
     
+    {% if post.category == 'jmp' %}
+      <!-- Additional fields for JMP papers -->
+      {% if post.abstract %}
+        <p><strong>Abstract:</strong> {{ post.abstract }}</p>
+      {% endif %}
+      {% if post.paperurl %}
+        <p><a href="{{ post.paperurl }}">Download Paper</a></p>
+        {% endif %}
+    {% endif %}
+    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
