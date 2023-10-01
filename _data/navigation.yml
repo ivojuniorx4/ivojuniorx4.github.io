@@ -6,11 +6,11 @@ main:
   - title: "Data Projects"
     url: /portfolio/
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Blog Posts"
+    url: /teaching/    
     
 #  - title: "CV"
 #    url: /cv/
 
-  - title: "Blog Posts"
-    url: /blog/
+#  - title: "Blog Posts"
+#    url: /blog/
