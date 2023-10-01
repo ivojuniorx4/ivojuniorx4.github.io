@@ -14,12 +14,10 @@ author_profile: true
 <h2>JMP</h2>
 {% for post in site.publications reversed %}
   {% if post.category == 'jmp' %}
-    <!--<p>Debugging: {{ post.title }} - {{ post.category }}</p>-->
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<!-- Add spacing -->
 <br><be>
 
 <h2>Working Papers</h2>
