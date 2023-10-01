@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Blogs"
 permalink: /teaching/
 author_profile: true
 ---
@@ -8,5 +8,13 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <div class="archive__item">
+    <h2 class="archive__item-title">
+      {{ post.title }}
+      <span style="margin-left: 20px;">
+        <a href="{{ post.url | prepend: site.baseurl }}">Read Blog</a>
+      </span>
+    </h2>
+    <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+  </div>
 {% endfor %}
