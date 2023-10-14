@@ -9,8 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
 <h2>JMP</h2>
 {% for post in site.publications reversed %}
   {% if post.category == 'jmp' %}
