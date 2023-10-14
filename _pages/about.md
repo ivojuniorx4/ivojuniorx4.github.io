@@ -15,8 +15,8 @@ My core research areas encompass Structural Learning, Conditional Dependence, Ba
 
 I will be available for interview on the 2023/24 Job Market.
 
-Email: [hayunson@usc.edu](mailto:hayunson@usc.edu)
+Email: [hayunson@usc.edu](mailto:hayunson@usc.edu).
 
-CV: [download here](files/cv_hayunSong.pdf)
+CV: Download [here](files/cv_hayunSong.pdf).
 
-Blog: [AIEconLab](https://www.aieconlab.com/)
+Blog: [AIEconLab](https://www.aieconlab.com/) (Language: Korean).
