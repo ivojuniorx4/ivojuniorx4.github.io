@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hayun Song/ Ph.D. Economics"
+title                    : "Hayun Song / Ph.D. Economics"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hayun Song"
 description              : &description "personal description"
 url                      : https://hayunsong.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
