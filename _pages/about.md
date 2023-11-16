@@ -19,4 +19,4 @@ Email: [hayunson@usc.edu](mailto:hayunson@usc.edu).
 
 Blog: [AIEconLab](https://www.aieconlab.com/) (Language: Korean).
 
-CV: [Donwload Here](files/cv_hayunSong.pdf)
+CV: [Donwload Here](files/cv_hayunSong.pdf), [Longer Version](files/cv_hayunSong_long.pdf).
