@@ -18,3 +18,5 @@ I will be available for interview on the 2023/24 Job Market.
 Email: [hayunson@usc.edu](mailto:hayunson@usc.edu).
 
 Blog: [AIEconLab](https://www.aieconlab.com/) (Language: Korean).
+
+CV: [Donwload Here](files/cv_hayunSong.pdf)
