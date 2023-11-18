@@ -5,7 +5,7 @@ type: "TA"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Southern California, Economics Department"
 date: 2023-01-01
-location: "City, Country"
+location: "Los Angeles, US"
 ---
 
 Teaching Assistant, University of Southern California.
