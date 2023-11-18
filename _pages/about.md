@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hayun Song, Ph.D. Candidate in Economics, University of Southern California
+Hayun Song, Ph.D. Candidate in [Economics](https://dornsife.usc.edu/econ/doctoral-job-market-candidates/), University of Southern California
 
 As an Economist at the University of Southern California (USC), my scholarly pursuits are anchored in the domains of Econometric Theory, Applied Econometrics, and Bayesian Econometrics. 
 
