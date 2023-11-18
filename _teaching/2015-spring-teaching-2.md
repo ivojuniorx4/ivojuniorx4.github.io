@@ -1,7 +1,7 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Southern California, Economics Department"
 date: 2023-01-01
