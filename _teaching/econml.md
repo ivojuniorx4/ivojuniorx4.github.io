@@ -13,4 +13,4 @@ Research   Assistant,  University  of  Southern  California
 
 Research Assistant: F2021 to Present
 ======
-RA  for  Prof.   Hashem  Pesaran  (with  Prof.   Ron  Smith)
+RA  for  Professor   [Hashem  Pesaran](https://www.econ.cam.ac.uk/people/emeritus/mhp1)  (with  Professor   [Ron  Smith](https://www.bbk.ac.uk/our-staff/profile/8003558/ron-smith))
