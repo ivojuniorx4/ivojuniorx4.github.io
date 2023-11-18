@@ -13,9 +13,9 @@ author_profile: true
       {{ post.title }}
       <span style="margin-left: 20px;">
         {% if post.external_url %}
-          <a href="{{ post.external_url }}" target="_blank">Teaching Assistant</a>
+          <a href="{{ post.external_url }}" target="_blank">details</a>
         {% else %}
-          <a href="{{ post.url | prepend: site.baseurl }}">Teaching Assistant</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">details</a>
         {% endif %}
       </span>
     </h2>
