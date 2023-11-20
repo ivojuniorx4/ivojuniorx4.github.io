@@ -62,7 +62,7 @@
     {% endif %}
     
     <!-- Then display the abstract -->
-    {% if post.category == 'jmp' %}
+    {% if post.category == 'jmp' or post.category == 'working_paper' %}
       <!-- Additional fields for JMP papers -->
       {% if post.abstract %}
         <p><strong>Abstract:</strong> {{ post.abstract }}</p>
