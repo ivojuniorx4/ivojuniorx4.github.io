@@ -69,6 +69,10 @@
       {% endif %}      
     {% endif %}
     
+    {% if post.download_link %}
+      <p>Download: <a href="{{ post.download_link }}">Draft PDF</a></p>
+    {% endif %}
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
