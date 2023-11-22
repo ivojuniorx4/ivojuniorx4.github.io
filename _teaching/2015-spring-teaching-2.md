@@ -13,9 +13,9 @@ Teaching Assistant, University of Southern California.
 ECON 318: Summer 2022, S2022
 ======
 Introduction  to  Econometrics  (undergraduate)
-[Sample1](files/26311-20221_ECON-318 Introduction to Econometrics (26311).pdf)
-[Sample2](files/26311-20221_ECON-318 Introduction to Econometrics (26312).pdf)
-[Sample3](files/26311-20221_ECON-318 Introduction to Econometrics (26313).pdf)
+[Sample1](https://www.dropbox.com/scl/fi/k7de6az7ictnonbl4qz2s/26311-20221_ECON-318-Introduction-to-Econometrics-26311.pdf?rlkey=zeqp75upax75tdr0flw0qxk6z&dl=0)
+[Sample2](https://www.dropbox.com/scl/fi/iuvxwe0qvkuqukysokknc/26312-20221_ECON-318-Introduction-to-Econometrics-26312.pdf?rlkey=zfogcy9no7hsy3n10xilk39rr&dl=0)
+[Sample3]([files/26311-20221_ECON-318 Introduction to Econometrics (26313).pdf](https://www.dropbox.com/scl/fi/g3umjxaxg8xfypcn0ivh3/26313-20222_ECON-318-Introduction-to-Econometrics-26313.pdf?rlkey=hw1vp4zkbtt2892zn3sy1skwc&dl=0))
 
 ECON 513: F2021
 ======
