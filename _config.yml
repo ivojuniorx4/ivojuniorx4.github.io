@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hayun Song / Ph.D. Economics"
+title                    : "Ivo de Souza Bueno Júnior / Research Assistant"
 title_separator          : "-"
-name                     : &name "Hayun Song"
+name                     : &name "Ivo de Souza Bueno Júnior"
 description              : &description "personal description"
-url                      : https://hayunsong.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ivojuniorx4.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/HayunSong-PhD/HayunSong-PhD/"
+repository               : "https://github.com/ivojuniorx4"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song, Hayun"
+  name             : "Ivo de Souza Bueno Júnior"
   avatar           : "7.jpg"
-  bio              : "Ph.D. Candidate in Economics, University of Southern California (USC)"
-  location         : "Los Angeles, CA, USA"
+  bio              : "Ph.D. Candidate at Chair for Human-Centered Technologies for Learning, TUM"
+  location         : "Munich, DE"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : HayunSong-PhD
+  github           : ivojuniorx4
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : hayunsong
-  orcid            : 
+  linkedin         : ivosbjunior
+  orcid            : 0009-0007-0048-2782
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
