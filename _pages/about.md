@@ -7,16 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hayun Song, Ph.D. Candidate in [Economics](https://dornsife.usc.edu/econ/doctoral-job-market-candidates/), University of Southern California
+I am a passionate Ph.D. candidate at the Technical University of Munich. My academic journey began with a Bachelor's degree in Computer Science from FAU Erlangen-Nürnberg, followed by a Master's in Computational Linguistics from LMU Munich. My research interests lie at the intersection of machine learning, natural language processing, and multimodal AI, with a strong focus on fostering effective and ethical interactions between humans and intelligent systems.  
 
-As an Economist at the University of Southern California (USC), my scholarly pursuits are anchored in the domains of Econometric Theory, Applied Econometrics, and Bayesian Econometrics. 
+Before starting my Ph.D., I gained over five years of experience as a software developer at e.solutions GmbH, working on real-world applications in industry. During my Master's, I further honed my expertise as a research assistant, designing and teaching programming tutorials while supporting exam development. Now, in my Ph.D., I am excited to explore novel approaches to human-centered AI, combining insights from computational linguistics, federated learning, and privacy-enhancing technologies to create more inclusive and intelligent learning systems.
 
-My core research areas encompass Structural Learning, Conditional Dependence, Bayesian Estimation, and the integration of Machine Learning methodologies into econometric frameworks.
+**Email**: [ivosb.junior@gmail.com](mailto:ivosb.junior+website@gmail.com).
 
-I will be available for interview on the 2023/24 Job Market.
-
-**Email**: [hayunson@usc.edu](mailto:hayunson@usc.edu).
-
-**Blog**: [AIEconLab](https://www.aieconlab.com/) (Language: Korean).
-
-**CV**: [Donwload Here](files/cv_hayunSong.pdf), [Longer Version](files/cv_hayunSong_long.pdf).
+**CV**: [Donwload Here](files/Curriculum_Vitae.pdf).
