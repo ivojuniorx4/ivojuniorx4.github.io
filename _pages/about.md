@@ -11,6 +11,4 @@ I am a passionate Ph.D. candidate at the Technical University of Munich. My acad
 
 Before starting my Ph.D., I gained over five years of experience as a software developer at e.solutions GmbH, working on real-world applications in industry. During my Master's, I further honed my expertise as a research assistant, designing and teaching programming tutorials while supporting exam development. Now, in my Ph.D., I am excited to explore novel approaches to human-centered AI, combining insights from computational linguistics, federated learning, and privacy-enhancing technologies to create more inclusive and intelligent learning systems.
 
-**Email**: [ivosb.junior@gmail.com](mailto:ivosb.junior+website@gmail.com).
-
-**CV**: [Donwload Here](files/Curriculum_Vitae.pdf).
+**Email**: [ivosb.junior@gmail.com](mailto:ivosb.junior+website@gmail.com) - **CV**: [Download Here](files/Curriculum_Vitae.pdf).

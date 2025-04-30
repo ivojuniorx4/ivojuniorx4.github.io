@@ -9,18 +9,18 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<h2>JMP</h2>
+<h2>Publications</h2>
 {% for post in site.publications reversed %}
-  {% if post.category == 'jmp' %}
+  {% if post.category == 'pub' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<br><be>
+#<br><be>
 
-<h2>Working Papers</h2>
-{% for post in site.publications reversed %}
-  {% if post.category == 'working_paper' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+#<h2>Working Papers</h2>
+#{% for post in site.publications reversed %}
+#  {% if post.category == 'working_paper' %}
+#    {% include archive-single.html %}
+#  {% endif %}
+#{% endfor %}
