@@ -39,7 +39,7 @@
         {% if post.link %}
           <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
-          {% if post.category == 'working_paper' %}
+          {% if post.category == 'published_paper' or post.category == 'working_paper' %}
             {{ title }}
           {% else %}
             {% if post.paperurl %}
@@ -63,7 +63,7 @@
     
     <!-- Display the download link first -->
     {% if post.download_link %}
-      <p><a href="{{ post.download_link }}">Draft</a></p>
+      <p><a href="{{ post.download_link }}">Download</a></p>
     {% endif %}
     
     <!-- Then display the abstract -->
