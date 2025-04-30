@@ -15,12 +15,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-#<br><be>
-
-#<h2>Working Papers</h2>
-#{% for post in site.publications reversed %}
-#  {% if post.category == 'working_paper' %}
-#    {% include archive-single.html %}
-#  {% endif %}
-#{% endfor %}
