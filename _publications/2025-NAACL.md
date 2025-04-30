@@ -1,6 +1,6 @@
 ---
 title: "Privacy-Preserving Federated Learning for Hate Speech Detection"
-category: pub
+category: published_paper
 collection: publications
 permalink: /publication/2025-NAACL
 date: 2025-04-29

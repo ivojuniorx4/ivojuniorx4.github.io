@@ -11,7 +11,7 @@ author_profile: true
 
 <h2>Publications</h2>
 {% for post in site.publications reversed %}
-  {% if post.category == 'pub' %}
+  {% if post.category == 'published_paper' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
